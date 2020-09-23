@@ -5,4 +5,4 @@ Blocklists for PiHole
 
 ### IPLogger Blocklist
 
-´´´ https://raw.githubusercontent.com/xVoiceSyntax/PiHole-Blocklists/master/iploggers.txt ´´´
+URL: https://raw.githubusercontent.com/xVoiceSyntax/PiHole-Blocklists/master/iploggers.txt
