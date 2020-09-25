@@ -1,4 +1,4 @@
-# Blocklist for iploggers by xVpiceSyntax
+# Blocklist for iploggers by xVoiceSyntax
 
 iplogger.org
 grabify.link
